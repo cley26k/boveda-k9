@@ -4,6 +4,10 @@ Caja fuerte 3D interactiva para la actividad de la feria. Los equipos resuelven 
 
 **Jugar:** https://cley26k.github.io/boveda-k9/
 
+<img src="qr/poster-qr-boveda-k9.png" alt="Póster con el código QR para entrar a la Bóveda K-9" width="360">
+
+En la carpeta `qr/` están el póster para imprimir y el QR solo.
+
 ## Cómo funciona
 
 1. **Estación 1:** escriben la respuesta y tocan ✓.
